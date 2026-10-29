@@ -1,20 +1,11 @@
-# Plugin Template
+# Steam Nexus 0.1.0
 
-A plugin template for Millennium providing a basic boilerplate to help get started.
+Modular enhancements for the Windows Steam desktop client, built from the official Millennium PluginTemplate. Development preview; not a marketplace release.
 
-## Prerequisites
+## Requirements and build
 
-- **[Millennium](https://github.com/SteamClientHomebrew/Millennium)** >= v3.4.0
-- **[Bun](https://bun.com/)** >= v1.0.0
+Windows, Node.js/npm and Millennium >= 3.4.0 (official template minimum; current stable release researched: 3.6.2). Run `npm ci`, `npm run typecheck`, then `npm run build`. Builds stay in `dist/`; this project does not automatically install into Steam.
 
-## Building
+## Licence
 
-```bash
-# Install frontend npm modules
-$ bun install
-
-# Build the plugins frontend
-$ bun run build
-```
-
-That's it! Millennium & starlight (plugin compiler) will automatically set up your plugin! You can enable it in Millennium Settings.
+No project licence has been selected. MIT is a recommendation for your confirmation. Retain applicable upstream attribution; see docs/framework.md.

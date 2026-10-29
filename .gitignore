@@ -1,3 +1,8 @@
 node_modules/
-/.millennium
+.millennium/
+dist/
+.tools/
+__pycache__/
+*.pyc
+*.log
 .millennium/lsp/
