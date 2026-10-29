@@ -79,4 +79,4 @@ See [validation and manual checks](docs/validation.md) and [framework/distributi
 
 This scaffold was created with AI assistance. Millennium's current submission rules prohibit primarily AI-generated plugins and require disclosure of assistance. This project is not eligible for submission as-is and has not been submitted or approved. Future distribution requires human ownership, review, ongoing maintenance and compliance with the rules then in effect.
 
-No project licence has been selected. MIT is a recommendation for your confirmation. Review upstream template licensing before distribution; no licence file was present at the recorded template commit. No remote repository was created and nothing was pushed.
+No project licence has been selected. MIT is a recommendation for your confirmation. Review upstream template licensing before distribution; no licence file was present at the recorded template commit.
